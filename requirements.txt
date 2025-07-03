@@ -1,0 +1,10 @@
+numpy
+pandas
+torch>=1.8.0  # Specify a minimum version or check your environment
+torchvision>=0.9.0 # Specify a minimum version or check your environment
+scikit-learn
+kagglehub
+tqdm
+opencv-python
+Pillow
+matplotlib
